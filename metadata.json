@@ -1,0 +1,9 @@
+{
+  "name": "ValPro - Vehicle Valuation Platform",
+  "description": "A comprehensive platform that streamlines the vehicle valuation process for B2B and B2C clients, featuring AI-powered analysis, real-time field assistance, and a secure digital workflow.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
